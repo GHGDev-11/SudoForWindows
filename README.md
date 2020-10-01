@@ -10,7 +10,7 @@ After running the SudoFW installer, follow these steps:
 5. Type in the path to your program files folder and then "\SudoFW", for example: C:\Program Files (x86)\SudoFW
 ```
 You're done! To exit out everything click "OK" in every window.\
-To test if the installation went succesful, run a sudo command of your choice by opening cmd and typing:
+To test if the installation went successful, run a sudo command of your choice by opening cmd and typing:
 ```
 sudo [Your command here]
 ```
