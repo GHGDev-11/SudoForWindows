@@ -9,3 +9,5 @@ To test if the installation went successful, run a sudo command of your choice b
 sudo [Your command here]
 ```
 Good luck using SudoFW!
+
+[Join our Discord server to get updates, get help and more!](https://discord.gg/ACSewHN)
